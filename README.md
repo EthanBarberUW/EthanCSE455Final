@@ -14,5 +14,6 @@ Each test that was conducted was built off of the previous findings in an attept
 NOTE: due to code colab usage restrictions, not all tests are entirely equal, but the main goal of finding what worked and what did not when creating our model was still able to be tested and informed by the tests that we performed in making the model.
 
 # The Results
+The first, and most obvious parameter which I manipulated to make a more performant model was increasing the number of epochs during training. As seen in the graph below for our basic training, as well as other graphs during this expierimentation, as the number of epochs increase the loss function decreased, eventually leveling out at some point. 
 
 # Conclusions
